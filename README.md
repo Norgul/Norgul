@@ -8,7 +8,7 @@
 
 <hr>
 
-Welcome to my profile! I am a seasoned tech leader with close to a decade of experience .With a Master's degree in
+Welcome to my profile! I am a seasoned tech leader with close to a decade of experience. With a Master's degree in
 information technology and a track record of success, I'm passionate about pushing the boundaries of what's possible in
 the tech industry. Ready to take on new challenges and drive innovation.
 
